@@ -1,5 +1,5 @@
 # Decompile by Mardis (Tools By Kapten-RX)
-# Time Succes decompile : 2022-10-22 19:25:30.331865
+# Time Succes decompile : 2023-06-22 19:25:30.331865
 
 import requests,bs4,json,sys,random,datetime,time,re,subprocess,platform,struct
 from bs4 import BeautifulSoup as sop
